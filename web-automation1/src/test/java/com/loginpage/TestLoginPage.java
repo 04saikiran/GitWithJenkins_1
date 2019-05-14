@@ -22,6 +22,7 @@ public class TestLoginPage {
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(3000, TimeUnit.SECONDS);
 		url = "http://demo.automationtesting.in/";
+		// Test commit //
 	}
 
 	@Test
