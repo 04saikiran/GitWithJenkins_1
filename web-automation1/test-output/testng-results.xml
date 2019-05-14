@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19418" started-at="2019-05-09T05:25:10Z" finished-at="2019-05-09T05:25:30Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19418" started-at="2019-05-09T05:25:10Z" finished-at="2019-05-09T05:25:30Z">
+      <class name="com.loginpage.TestLoginPage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.loginpage.TestLoginPage@685cb137]" name="setUp" is-config="true" duration-ms="6154" started-at="2019-05-09T05:25:10Z" finished-at="2019-05-09T05:25:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPage()[pri:0, instance:com.loginpage.TestLoginPage@685cb137]" name="loginPage" duration-ms="12426" started-at="2019-05-09T05:25:16Z" finished-at="2019-05-09T05:25:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="PASS" signature="tierDown()[pri:0, instance:com.loginpage.TestLoginPage@685cb137]" name="tierDown" is-config="true" duration-ms="787" started-at="2019-05-09T05:25:29Z" finished-at="2019-05-09T05:25:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tierDown -->
+      </class> <!-- com.loginpage.TestLoginPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

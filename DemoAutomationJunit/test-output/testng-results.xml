@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23876" started-at="2019-05-09T02:36:28Z" finished-at="2019-05-09T02:36:52Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23876" started-at="2019-05-09T02:36:28Z" finished-at="2019-05-09T02:36:52Z">
+      <class name="com.test.LoginApplication">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.LoginApplication@5c0369c4]" name="setUp" is-config="true" duration-ms="6651" started-at="2019-05-09T08:06:28Z" finished-at="2019-05-09T08:06:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPage()[pri:0, instance:com.test.LoginApplication@5c0369c4]" name="loginPage" duration-ms="16458" started-at="2019-05-09T08:06:34Z" finished-at="2019-05-09T08:06:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="PASS" signature="tierDown()[pri:0, instance:com.test.LoginApplication@5c0369c4]" name="tierDown" is-config="true" duration-ms="752" started-at="2019-05-09T08:06:51Z" finished-at="2019-05-09T08:06:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tierDown -->
+      </class> <!-- com.test.LoginApplication -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
